@@ -15,6 +15,8 @@
 ### Official Resources
 - [Official Guide](https://developer.microsoft.com/en-us/office/docs)
 - [European Sharepoint Resource Center](https://www.sharepointeurope.com/resource-centre/)
+- [Modern SharePoint Starter Kit] (https://github.com/SharePoint/sp-starter-kit)
+- [Build SharePoint Framework solutions, apps, add-ins, and solutions for SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/?view=sp-typescript-latest)
 
 ### External Resources
 - [Sharegate SharePoint blogs](https://en.share-gate.com/blog?category=sharepoint) - SharePoint news, expert advice, tips & how-tos
@@ -31,7 +33,7 @@
 -
 
 ### Youtube Channels
-- 
+- [SharePoint / Office 365 Developer Patterns and Practices](https://github.com/SharePoint/PnP)
 
 ### Official Examples
 - 
@@ -40,7 +42,7 @@
 -
 
 ### Examples
--
+-[SharePoint Framework development tools and libraries] (https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tools-and-libraries)
 
 ### Books
 -
