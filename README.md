@@ -34,11 +34,11 @@
 - [All About Office 365 Blog](https://www.allabout365.com/)
 - [Collab 365 Community Blog](https://collab365.community/category/office-365/)
 - [Andrew Connell Blog](https://www.andrewconnell.com/blog/)
-- [Voitanos by Andrew Connell Blog ](https://www.voitanos.io/blog)
+- [Voitanos by Andrew Connell Blog](https://www.voitanos.io/blog)
 
 ### Community
 - [Microsoft Sharepoint Tech Community](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)
-- Collab 365 Community](https://collab365.community)
+- [Collab 365 Community](https://collab365.community)
 - [Office365 Weekly Blog](https://office365weekly.blog/)
 
 ### Conferences
