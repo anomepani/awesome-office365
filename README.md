@@ -38,7 +38,8 @@
 
 ### Community
 - [Microsoft Sharepoint Tech Community](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/bg-p/SPBlog)
--[Collab 365 Community](https://collab365.community)
+- Collab 365 Community](https://collab365.community)
+- [Office365 Weekly Blog](https://office365weekly.blog/)
 
 ### Conferences
 -
