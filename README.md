@@ -52,7 +52,7 @@
 - 
 
 ### Tutorials
--
+- [SharePoint Tips and Tricks](https://anomepani.github.io/)
 
 ### Examples
 -[SharePoint Framework development tools and libraries] (https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tools-and-libraries)
